@@ -1,0 +1,9 @@
+D:\DriverGenius\security\ksde\dgsafe_ev.sys
+Type: Kernel Driver
+Signer: 珠海市君天电子科技有限公司
+IOCTL: Yes
+
+Dangerous APIs:
+  [!] ZwOpenProcess
+  [!] ZwTerminateProcess
+  [!] ZwWriteFile
