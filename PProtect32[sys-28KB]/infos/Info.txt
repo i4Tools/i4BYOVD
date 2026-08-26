@@ -1,0 +1,7 @@
+D:\诺诺发票\protect\PProtect32.sys
+Type: Kernel Driver
+Signer: 浙江诺诺网络科技有限公司
+IOCTL: Yes
+
+Dangerous APIs:
+  [!] ZwTerminateProcess
