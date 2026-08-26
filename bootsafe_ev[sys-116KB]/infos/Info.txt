@@ -1,0 +1,8 @@
+D:\DriverGenius\ksoft\bootsafe_ev.sys
+Type: Kernel Driver
+Signer: 珠海市君天电子科技有限公司
+IOCTL: Yes
+
+Dangerous APIs:
+  [!] ZwTerminateProcess
+  [!] ZwWriteFile
